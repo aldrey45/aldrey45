@@ -12,6 +12,10 @@ I'm Aldrey Pabilona, a dedicated coder with a solid foundation in database manag
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=29AE4D6B3D15099D0012C6A83492C9605358A1C795B46621549D5AB20FDDD307&fbclid=IwAR0PCzUJrkOScHaL8lDtlounilX0aeCA3HaTx9eTqe3wZmNYhwV3-ZJIFnQ)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=27F4EEBE8E8CA25F2E7117566F09EA076D165D6CB954F07C02DBC0D3F25F4CAE&fbclid=IwAR1PtL9wIWuxl_NA1dHiVsUoiyOsXay42YmAEdenoPSS8tSWWS71WJdac-8#)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/2daab9142059409fa3028ed6af046345)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/36274bbe41fa4b63917692144ac78691)
+- [Ethical Hacker](https://www.credly.com/badges/fc97a4e8-8d3d-4f42-a51b-c0e6abb2726e).
+- [Introduction to Cybersecurity](https://www.credly.com/badges/e881a1b5-6677-43dd-bc50-329eb9db019d).
+- 
 
 ## Skill Sets
 - ![Programming Icon](https://img.icons8.com/color/48/000000/source-code.png) Java, Javascript

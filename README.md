@@ -11,8 +11,8 @@
 <br>
 
 ### 🌟 About Me
-- 🔭 Currently building **Laravel APIs**, experimenting with **Django**, and sharpening **web security skills**
-- 🌱 Learning advanced **cloud integrations**, **data visualization**, and **secure authentication flows**
+- Currently building **Laravel APIs**, experimenting with **Django**, and sharpening **web security skills**
+- Learning advanced **cloud integrations**, **data visualization**, and **secure authentication flows**
 <br>
 
 ### 🎓 Education
@@ -54,24 +54,9 @@ New Era University • 2022 – Present (Expected 2026)
 
 <br>
 
-### 💼 Internship Experience
-**Backend Web Development Intern (Laravel)**  
-- Debugged & fixed APIs, database queries, authentication flows  
-- Supported MySQL + Laravel troubleshooting
+
+<br>
+### Email: aldreypabilona45@gmail.com
 
 <br>
 
-
-
-<br>
-
-<p align="center">
-  <strong>Let's connect and build something awesome! 🚀</strong><br>
-  Open to opportunities, feedback, or just geeky tech talks.
-</p>
-
-<p align="center">
-  <a href="mailto:aldreypabilona45@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>

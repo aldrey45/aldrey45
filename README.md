@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Aldrey Pabilona</h1>
+  <h1>Hi, I'm Aldrey Pabilona</h1>
   <p>
     <strong>Aspiring Full-Stack Developer</strong> | Turning ideas into clean, functional web & mobile apps<br>
     Quezon City, Philippines • +63 992 830 8483 • <a href="mailto:aldreypabilona45@gmail.com">aldreypabilona45@gmail.com</a>
@@ -10,7 +10,7 @@
 
 <br>
 
-### 🌟 About Me
+### About Me
 - Currently building **Laravel APIs**, experimenting with **Django**, and sharpening **web security skills**
 - Learning advanced **cloud integrations**, **data visualization**, and **secure authentication flows**
 <br>
@@ -21,7 +21,7 @@ New Era University • 2022 – Present (Expected 2026)
 
 <br>
 
-### 🏆 Certifications
+### Certifications
 - 🏅 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=27F4EEBE8E8CA25F2E7117566F09EA076D165D6CB954F07C02DBC0D3F25F4CAE">Oracle Cloud Infrastructure Certified Foundations Associate</a>  
 - 🏅 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E36DF90C5BB3644BBDDC6D8E3E64B3ECAE35317092D3FDBECD86F650C432722A">Oracle Cloud Infrastructure AI Certified Foundations Associate</a>  
 - 🏅 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=29AE4D6B3D15099D0012C6A83492C9605358A1C795B46621549D5AB20FDDD307">Oracle Cloud Data Management Certified Foundations Associate</a>  
@@ -42,7 +42,7 @@ New Era University • 2022 – Present (Expected 2026)
 
 <br>
 
-### 🔥 Highlights & Projects
+### Highlights & Projects
 
 - **Academic Integrity Platform** (Capstone) → Laravel backend + REST APIs + similarity detection + RBAC  
 - **Visitor Management System** → Full Laravel dynamic web app  
@@ -56,7 +56,10 @@ New Era University • 2022 – Present (Expected 2026)
 
 
 <br>
-### Email: aldreypabilona45@gmail.com
+
+### EMAIL: aldreypabilona45@gmail.com
+
+
 
 <br>
 

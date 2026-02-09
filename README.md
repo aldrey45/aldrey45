@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Aldrey Pabilona</h1>
   <p>
-    <strong>Aspiring Full-Stack Developer</strong> | Turning ideas into clean, functional web & mobile apps<br>
+    <strong>Aspiring Full-Stack Developer</strong> | Eager to apply academic and practical knowledge in both frontend and backend application development. Committed to continuously improving technical skills and gaining hands-on experience.<br>
     Quezon City, Philippines • +63 992 830 8483 • <a href="mailto:aldreypabilona45@gmail.com">aldreypabilona45@gmail.com</a>
   </p>
 

@@ -1,51 +1,77 @@
-Hi 👋, I'm Aldrey Pabilona
+<div align="center">
+  <h1>👋 Hi, I'm Aldrey Pabilona</h1>
+  <p>
+    <strong>Aspiring Full-Stack Developer</strong> | Turning ideas into clean, functional web & mobile apps<br>
+    Quezon City, Philippines • +63 992 830 8483 • <a href="mailto:aldreypabilona45@gmail.com">aldreypabilona45@gmail.com</a>
+  </p>
 
-Aspiring full-stack developer passionate about crafting reliable, user-focused web & mobile solutions. Always learning, debugging, and turning ideas into working applications.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=PHP+%7C+Laravel+%7C+Django+%7C+Python;Full-Stack+%7C+Backend+Focus;Always+learning+new+tools+🚀" alt="Typing SVG" />
+</div>
 
-* 🌱 Currently deepening skills in Laravel APIs, Python data tools, and secure app development
-* 👯 Open to collaborate on backend-heavy projects, full-stack apps, or internship-level contributions
+<br>
 
-📍 Quezon City, Philippines  
-📧 aldreypabilona45@gmail.com | +63 992 830 8483
+### 🌟 About Me
+- 🔭 Currently building **Laravel APIs**, experimenting with **Django**, and sharpening **web security skills**
+- 🌱 Learning advanced **cloud integrations**, **data visualization**, and **secure authentication flows**
+<br>
 
-🎓 Education  
-Bachelor of Science in Information Technology  
-New Era University  
-2022 – Present (Expected 2026)
+### 🎓 Education
+**Bachelor of Science in Information Technology**  
+New Era University • 2022 – Present (Expected 2026)
 
-🏆 Certifications  
-- Oracle Cloud Infrastructure Certified Foundations Associate  
-- Oracle Cloud Infrastructure AI Certified Foundations Associate  
-- Oracle Cloud Data Management Certified Foundations Associate  
-- SQL and Relational Databases 101  
-- NoSQL and DBaaS 101  
-- Introduction to Cybersecurity  
-- Ethical Hacker
+<br>
 
-🛠️ Tech Stack  
-PHP • Laravel • Django • Python • JavaScript • TypeScript • HTML • CSS • Bootstrap • Tailwind CSS • Blade  
-MySQL • MariaDB • MongoDB • IBM DB2 • Firebase (Auth + Realtime DB) • Kotlin  
-REST APIs • MVC • Authentication & Authorization • SQL • Power BI • Git • Figma • Jaspersoft • Pentaho • Cisco Packet Tracer
+### 🏆 Certifications
+- 🏅 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=27F4EEBE8E8CA25F2E7117566F09EA076D165D6CB954F07C02DBC0D3F25F4CAE">Oracle Cloud Infrastructure Certified Foundations Associate</a>  
+- 🏅 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E36DF90C5BB3644BBDDC6D8E3E64B3ECAE35317092D3FDBECD86F650C432722A">Oracle Cloud Infrastructure AI Certified Foundations Associate</a>  
+- 🏅 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=29AE4D6B3D15099D0012C6A83492C9605358A1C795B46621549D5AB20FDDD307">Oracle Cloud Data Management Certified Foundations Associate</a>  
+- 📜 <a href="https://courses.cognitiveclass.ai/certificates/2daab9142059409fa3028ed6af046345">SQL and Relational Databases 101</a>  
+- 📜 <a href="https://courses.cognitiveclass.ai/certificates/36274bbe41fa4b63917692144ac78691">NoSQL and DBaaS 101</a>  
+- 🔒 <a href="https://www.credly.com/badges/fc97a4e8-8d3d-4f42-a51b-c0e6abb2726e">Ethical Hacker</a>  
+- 🛡️ <a href="https://www.credly.com/badges/e881a1b5-6677-43dd-bc50-329eb9db019d">Introduction to Cybersecurity</a>
 
-🔥 Key Projects & Experience  
-• **Academic Integrity Platform** (Capstone) — Built Laravel backend with REST APIs, role-based access, similarity detection, relational DB design & frontend integration  
-• **Visitor Management System** — Full Laravel web app for dynamic entry tracking  
-• **Editable Digital Portfolio** — PHP + MySQL + Bootstrap frontend  
-• **Kotlin Mobile App** — Firebase-integrated Android application  
-• **Power BI Dashboards & Python Analysis** — Data visualization and basic analytics  
-• **PortSwigger Labs** — Apprentice-level web security & vulnerability practice  
-• **Cisco Packet Tracer** — Network simulation & topology design  
+<br>
 
-💼 Internship  
-Backend Web Development Intern (Laravel)  
-- Fixed API, database & auth-related bugs  
-- Supported MySQL + Laravel troubleshooting & debugging
+### 🛠️ Tech Stack
 
-📊 GitHub Activity  
-![Aldrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldreypabilona&show_icons=true&theme=dracula&hide_border=true)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,js,ts,html,css,bootstrap,tailwind,mysql,mongodb,firebase,kotlin,git,figma,powershell,vscode" alt="Tech icons" />
+  <br><br>
+  <strong>Also experienced with:</strong> REST APIs • MVC • Blade • Power BI • Pentaho • Jaspersoft • Cisco Packet Tracer • PortSwigger Labs
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldreypabilona&layout=compact&theme=dracula&hide_border=true)
+<br>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=aldreypabilona&theme=dracula&no-frame=true&margin-w=15)
+### 🔥 Highlights & Projects
 
-Let's build something great — feel free to message me! 🚀
+- **Academic Integrity Platform** (Capstone) → Laravel backend + REST APIs + similarity detection + RBAC  
+- **Visitor Management System** → Full Laravel dynamic web app  
+- **Personal Digital Portfolio** → PHP • MySQL • Bootstrap • Editable & responsive  
+- **Kotlin Mobile App** → Firebase Auth + Realtime DB integration  
+- **Power BI Dashboards & Python Analysis** → Data visualization & basic analytics  
+- **Network Simulation** → Cisco Packet Tracer real-world topology design  
+- **Security Labs** → Apprentice-level PortSwigger web vulnerability practice
+
+<br>
+
+### 💼 Internship Experience
+**Backend Web Development Intern (Laravel)**  
+- Debugged & fixed APIs, database queries, authentication flows  
+- Supported MySQL + Laravel troubleshooting
+
+<br>
+
+
+
+<br>
+
+<p align="center">
+  <strong>Let's connect and build something awesome! 🚀</strong><br>
+  Open to opportunities, feedback, or just geeky tech talks.
+</p>
+
+<p align="center">
+  <a href="mailto:aldreypabilona45@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>

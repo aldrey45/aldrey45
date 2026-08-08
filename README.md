@@ -2,7 +2,7 @@
   <h1>Hi, I'm Aldrey Pabilona</h1>
   <p>
     <strong>Aspiring Full-Stack Developer</strong> | Eager to apply academic and practical knowledge in both frontend and backend application development. Committed to continuously improving technical skills and gaining hands-on experience.<br>
-    Quezon City, Philippines • +63 992 830 8483 • <a href="mailto:aldreypabilona45@gmail.com">aldreypabilona45@gmail.com</a>
+    Quezon City, Philippines •  <a href="mailto:aldreypabilona45@gmail.com">aldreypabilona45@gmail.com</a>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=PHP+%7C+Laravel+%7C+Django+%7C+Python;Full-Stack+%7C+Backend+Focus;Always+learning+new+tools+🚀" alt="Typing SVG" />
@@ -55,11 +55,4 @@ New Era University • 2022 – Present (Expected 2026)
 <br>
 
 
-<br>
-
-### EMAIL: aldreypabilona45@gmail.com
-
-
-
-<br>
 
